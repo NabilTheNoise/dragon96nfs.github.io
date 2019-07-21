@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
-You can see my resume [here](/resume/Resume.html)
+You can see my resume [here](/resume/Resume.html).
+
 You can use the [editor on GitHub](https://github.com/dragon96nfs/NabilTheNoise/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
