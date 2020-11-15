@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 You can see my resume [here](/resume/Resume.html).
 
+## Posts
 <ul>
   {% for post in site.posts %}
     <li>
